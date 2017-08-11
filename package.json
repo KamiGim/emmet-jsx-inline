@@ -1,14 +1,17 @@
 {
   "name": "emmet-jsx-inline-style",
   "main": "./lib/emmet-jsx-inline-style",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "emmet-jsx-inline-style:toggle"
   },
-  "repository": "https://github.com/atom/emmet-jsx-inline-style",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamiGim/emmet-jsx-inline.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
