@@ -1,7 +1,7 @@
 {
   "name": "emmet-jsx-inline-style",
   "main": "./lib/emmet-jsx-inline-style",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [
   ],
