@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle emmet-jsx-inline-style",
+        "command": "emmet-jsx-inline-style:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "emmet-jsx-inline-style",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "emmet-jsx-inline-style:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
